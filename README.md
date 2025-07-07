@@ -1,19 +1,26 @@
-# Hi, I'm Rajdeep Desai 👋
+<h1 align="center">Hi 👋, I'm Rajdeep Desai</h1>
 
-🎓 Final Year CSE Student at KLS GIT, Belagavi  
-💻 Passionate about Data Science, Machine Learning & Cybersecurity  
-🛠️ Skills: Python, Flask, MySQL, Scikit-learn, Power BI, Tableau  
-🏆 Winner - Project Expo 2024 | Tech Quiz Champion | State-Level Kabaddi Player  
-📫 Reach me: desairajdeep09@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajdeep-desai-625616262/)
+<p align="center">
+🚀 Final-Year CSE Student | 📊 Data & ML Enthusiast | 🔐 Cybersecurity Learner  
+</p>
 
-## 🔧 Projects
-- 🔐 **Homomorphic Encryption in Online Voting System**  
-  Secure e-voting platform using Python, Flask & Cryptography
+<h3 align="center"><code>Final Year Computer Science | KLS Gogte Institute of Technology</code></h3>
 
-- 📊 **Graduate Admission Prediction Web App**  
-  ML-powered app with real-time predictions using Flask & Scikit-learn
+---
 
-## 📜 Certifications
-- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/FIZU2ARQJDDL)
-- [Getting Started with Microsoft Excel](https://coursera.org/share/b1e7530de4e5cc4f2bb84940d5b8214a)
+## 🧠 About Me
 
+- 🎓 Final-year Computer Science student at **KLS Gogte Institute of Technology**
+- 🔍 Exploring **data analytics**, **machine learning**, and **cybersecurity**
+- 💻 Hands-on with **Python**, **Flask**, **MySQL**, **Scikit-learn**, **Power BI**, and more
+- 🔐 Built a **secure online voting system** using **homomorphic encryption**
+- 🧠 Passionate about real-world applications and continuous learning
+- 🧑‍🤝‍🧑 Core member of multiple clubs | Known for leadership & collaboration
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/flask
