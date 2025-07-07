@@ -15,5 +15,5 @@
 
 ## 📜 Certifications
 - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/FIZU2ARQJDDL)
-- [](https://coursera.org/share/b1e7530de4e5cc4f2bb84940d5b8214a)
+- [Getting](https://coursera.org/share/b1e7530de4e5cc4f2bb84940d5b8214a)
 
