@@ -61,8 +61,8 @@
 
 ## 💼 Internships & Roles
 
-- 🕵️‍♂️ **Technical Content Creator & Advisor** – Dattamsh Edtech LLP *(Sept 2024 – Present)*
-- 🛡️ **Cybersecurity Intern** – EyeSec Cyber Security Pvt. Ltd *(June 2023)*
+- 🕵️‍♂️ **Technical Content Creator & Advisor** – Dattamsh Edtech LLP *(Sept 2024 – Feb 2025)*
+- 🛡️ **Cybersecurity Intern** – EyeSec Cyber Security Pvt. Ltd *(June 2023 - Aug 2023 )*
 - 💡 **Intern** – Zeel Codes Labs *(May 2024)*
 
 ---
